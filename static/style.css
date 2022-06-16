@@ -1,28 +1,36 @@
 body {
-    font-family: 'Verdana', sans-serif;
+    font-family: 'Lobster', cursive;
     margin: 50px 25px;
+    background: #F4D8D2;
 }
 
 a {
-    color: #2a99b6;
+    color: #754A41;
+    font-size: 25px;
+    font-weight: 700;
+    list-style-type: armenian;
 }
 
 a:hover {
-    color: #33bbdf;
+    color: #C27B6D;
 }
+
 
 header, footer, div.page {
-    width: 760px;
+    width: 100%;
     margin: 0 auto;
-    background: #daeef3;
+    background: #C27B6D;
     padding: 20px 30px;
 }
-
+h1 {
+    font-size: 40px;
+    color: #754A41;
+}
 header h1 {
-    color: #169bbd;
+    color: #73613E;
     margin: 0;
     font-weight: normal;
-    font-size: 42px;
+    font-size: 48px;
 }
 
 header nav ul {
@@ -34,9 +42,55 @@ header nav ul {
 header nav ul li {
     display: inline;
     margin: 0 8px 0 0;
-    padding: 0;
+    padding: 10px;
 }
 
 div.page {
-    background: #f1fbfe;
+    background: #F4D8D2;
+}
+
+h2 {
+    text-align: left;
+    font-size: 25px;
+    color: #F29988;
+}
+
+p.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p.image-project {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+ul.project-list {
+    list-style-type: none;
+    margin: 10;
+    padding: 10;
+    line-height: 40px;
+}
+
+ul.project {
+    list-style-type: none;
+    margin: 10;
+    padding: 10;
+}
+
+.projects {
+    font-weight: 300;
+    font-style: italic;
+}
+
+.name {
+    font-size: small;
+}
+
+footer {
+    color:#754A41;
 }

@@ -1,13 +1,13 @@
 <!doctype html>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial scale=1">
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous"><link rel="stylesheet" href="../static/style.css">
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6" crossorigin="anonymous"><link rel="stylesheet" href="../../static/style.css">
 <link rel="icon" href="">
-<link rel="stylesheet" href="../static/style.css">
+<link rel="stylesheet" href="../../static/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Lobster&display=swap" rel="stylesheet">
-<title>Blog — Tupichok</title>
+<title>8 книг по Python для начинающих — Tupichok</title>
 
 <body>
 
@@ -18,16 +18,16 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav me-auto mb-2 mb-lg-0 top-menu">
             <li class="nav-item">
-              <a class="nav-link" href="../">Главная</a>
+              <a class="nav-link" href="../../">Главная</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="./">Блог</a>
+              <a class="nav-link" href="../">Блог</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../projects/">Работы</a>
+              <a class="nav-link" href="../../projects/">Работы</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="../about/">Обо мне</a>
+              <a class="nav-link" href="../../about/">Обо мне</a>
             </li>
           </ul>
         </div>
@@ -40,31 +40,10 @@
 
   <div class="page">
     
-  <h1>Блог</h1>
   
-    
   <div class="blog-post">
   
-    <h2><a href="test/">Тестовая запись</a></h2>
-  
-  <p class="meta">
-    written by
-    
-      Виктория Чернышева
-    
-    on 2022-05-01
-  </p>
-  <p>Тестовая запись</p>
-
-  </div>
-  
-  
-
-  
-    
-  <div class="blog-post">
-  
-    <h2><a href="python/">8 книг по Python для начинающих</a></h2>
+    <h2>8 книг по Python для начинающих</h2>
   
   <p class="meta">
     written by
@@ -93,32 +72,50 @@
 <li><p>Learn Python the Hard Way: A Very Simple Introduction to the Terrifyingly Beautiful World of Computers and Code (3rd Edition) (Zed Shaw's Hard Way Series)</p>
 <p>Будет хорошим первым шагом в программировании. Последовательно выполняя каждое упражнение (хватит 1-2 часов занятий в сутки), можно получить хорошую базу. Книга научит вас трем существенным навыкам, которые должен уметь начинающий программист: чтение и написание кода, внимание к деталям, умение замечать различия.</p>
 </li>
-<li><p>Effective Python, Brett Slatkin</p>
-<p>Что-то посложнее:) Очень крутое руководство, раскрывает многие полезные приемы программирования. Сборник задач и решений к ним с большим количеством пояснений.</p>
-</li>
+</ol>
+<p>7 . Effective Python, Brett Slatkin</p>
+<pre><code>Очень крутое руководство, раскрывает многие полезные приемы программирования. Сборник задач и решений к ним с большим количеством пояснений.
+</code></pre>
+<ol>
 <li><p>Functional Programming in Python, David Mertz</p>
-<p>Что -то посложнее:) Полезно для того, чтобы взглянуть на Python под другим углом. Дает ценные рекомендации по встроенным и сторонним библиотекам, которые помогут в работе, даже если не программировать в функциональном стиле.</p>
+<p>Полезно для того, чтобы взглянуть на Python под другим углом. Дает ценные рекомендации по встроенным и сторонним библиотекам, которые помогут в работе, даже если не программировать в функциональном стиле.</p>
 </li>
 </ol>
-<p>Официальная документация. Что может быть лучше документации для изучения языка? Если вы не абсолютный новичок, конечно.</p>
+<p>Официальная документация</p>
+<pre><code>Что может быть лучше документации для изучения языка? Если вы не абсолютный новичок, конечно.
+</code></pre>
 <p>Нужно помнить, что как только наработана минимальная база, то одно лишь чтение превращается в бесполезное времяпровождение. Лучший способ изучить язык — писать на нем. Как можно скорее нужен больший упор на практику, а значит нужны задачи. В этом ключе обучение проходит по крохотным статьям, выжимкам из многих книг и stackoverflow. При этом книги по языку стоит читать профильные, например, с упором на обработку геоданных, геймдев, графику.</p>
 
   </div>
   
   
-
+    
   
+  <div class="blog-nav">
+    <br>
+    
 
-  
-  <div class="pagination">
     
-      <span class="disabled">&laquo; Previous</span>
     
-    | 1 |
+
     
-      <span class="disabled">Next &raquo;</span>
+    
+      
+    
+
+    
+    
+
+    
+    8 книг по Python для начинающих
+     | 
+
+    
+      <a href="../pervaya-zapis/" title="Тестовая запись" >Next &raquo;</a>
     
   </div>
+
+  
 
 
   </div>
